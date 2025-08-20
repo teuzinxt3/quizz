@@ -1,9 +1,9 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Assim que as pessoas acordam em um belo dia em uma cidade de Curitiba, logo se deparam com muitos robos pela rua andando e fazendo tudo igual aos humanos, na verdade ate melhor superando os limites de um humano, assustador não é?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Oque voce achou, espetacular ou assustador?",
                 afirmacao: [
                     "No início ficou com medo do que essa tecnologia pode fazer.",
                     "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
@@ -11,7 +11,7 @@ export const perguntas = [
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Isso é assustador!",
                 afirmacao: [
                     "Quis saber como usar IA no seu dia a dia.",
                     "Pensou que IA pode ajudar em tarefas da sua vida."
